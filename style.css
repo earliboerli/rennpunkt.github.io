@@ -8,6 +8,10 @@ line-height:1;
 background-color: #F4EED4;
 }
 
+b:link {
+  color: #D1240D;
+}
+
 h1 {
   font-style: italic;
   color: #D1240D;
@@ -17,10 +21,15 @@ h1 {
 color: #D1240D;   
 }
 
-.ml-embedded {
-        margin-top: -20px; /* Adjust this value as needed */
+.my-embedd {
+        margin-top: -20px; 
         margin-left: -20px;
+        width: 330px;
+        box-sizing: border-box; /* Ensures padding doesn't increase the width */
+        padding-top: 0px;
+        padding-top: 0px;
     }
+
 
 img{max-width:100%;}
 
