@@ -49,15 +49,21 @@ color: #D1240D;
         padding-top: 0px !important;
         padding-top: 0px !important;
     }
+.substack-iframe {
+    position: relative;
+    width: 330px;
+    height: 130px;
+}
 
 .over-substack {
-        z-index: 9;
-        position: absolute;
-        margin-top: -30px !important;
-        width: 330px !important;
-        box-sizing: border-box; /* Ensures padding doesn't increase the width */
-        padding-top: 0px !important;
-        padding-top: 0px !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Half the width of the iframe container */
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     }
 
 
