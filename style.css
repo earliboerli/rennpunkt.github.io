@@ -59,8 +59,12 @@ color: #D1240D;
     position: absolute;
     top: 50px;
     left: 0;
-    width: 100%; /* Half the width of the iframe container */
+    width: 100%;
     height: 100%;
+    display: flex;
+    flex-direction: column; /* This stacks children vertically */
+    align-items: center;
+    justify-content: center;
     background-color: #F4EED4;
     }
 
