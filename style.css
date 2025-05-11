@@ -60,11 +60,11 @@ color: #D1240D;
     top: 0;
     left: 0;
     width: 100%; /* Half the width of the iframe container */
-    height: 80%;
+    height: 60%;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #F4EED4;
+    background-color: #F4EED480;
     }
 
 
