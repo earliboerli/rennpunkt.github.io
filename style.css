@@ -56,7 +56,7 @@ color: #D1240D;
 
 .over-substack {
     position: absolute;
-    top: 45px;
+    top: 50px;
     left: 0;
     width: 100%; /* Half the width of the iframe container */
     height: 100%;
