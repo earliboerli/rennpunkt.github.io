@@ -64,6 +64,7 @@ color: #D1240D;
     display: flex;
     flex-direction: column; /* This stacks children vertically */
     align-items: center;
+    text-align: center;
     justify-content: center;
     background-color: #F4EED4;
     }
