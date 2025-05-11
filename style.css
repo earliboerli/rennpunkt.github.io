@@ -62,7 +62,7 @@ color: #D1240D;
     width: 100%;
     height: 100px;
     display: flex;
-    padding-top: 6px;
+    padding-top: 10px;
     flex-direction: column; /* This stacks children vertically */
     align-items: center;
     text-align: center;
